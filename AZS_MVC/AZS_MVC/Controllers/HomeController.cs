@@ -26,5 +26,11 @@ namespace AZS_MVC.Controllers
 
             return View();
         }
+
+        public ActionResult Blog()
+        {      
+            return View();
+        }
+
     }
 }
